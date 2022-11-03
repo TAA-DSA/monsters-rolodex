@@ -1,4 +1,4 @@
-##Develop this single page application as part for a react course.
+##Develop this single page application as part of a react course.
 
 # Getting Started with Create React App
 
